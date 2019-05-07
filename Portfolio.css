@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.navbar.navbar-expand-lg .navbar-light .bg-light{
+	background-color: black;
+	color: antiquewhite;
+	font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif'
+}
+
+.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 40%;
+}
+
+footer {
+	background-color: lightgray;
+	color: black;
+	position: fixed;
+	left:0;
+	bottom:0;
+	text-align: center;
+	right:0;
+	height: 120px;
+	height: 50px;
+}
+
+#navbar {
+	background-color: black;
+	color: floralwhite;
+}
+
+.wrapper{
+	min-height: 100%;
+}
+
+
